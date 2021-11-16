@@ -8,3 +8,4 @@
 2. Machine Learning
 3. Network Science
 4. Risk Managment
+5. Reinforcement Learning
